@@ -1,0 +1,6 @@
+[submodule "firewall-frontend"]
+	path = firewall-frontend
+	url = https://github.com/ayesha19765/firewall-frontend.git
+[submodule "firewall"]
+	path = firewall
+	url = https://github.com/Ayush-Vish/firewall.git
