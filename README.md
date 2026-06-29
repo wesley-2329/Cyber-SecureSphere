@@ -91,13 +91,6 @@ Cyber-SecureSphere is a cross-platform firewall solution that integrates an admi
 4. **Anomaly Detection:** Automatically detect and handle suspicious activities using ML-powered insights.  
 
 ---
-
-## Acknowledgments:  
-
-This project was inspired by research and practical implementations in the field of anomaly detection and web application firewalls:  
-- [Web Application Firewall Using Machine Learning and Feature Engineering](https://doi.org/10.1155/2022/5280158)  
-- [Anomaly Detection Using Machine Learning Techniques](https://ieeexplore.ieee.org/document/9033532)  
-
 By developing Cyber-SecureSphere, our goal is to provide a secure, scalable, and efficient solution for modern network security challenges.  
 
 **Made with Love 🧡**  
